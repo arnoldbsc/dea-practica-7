@@ -1,0 +1,16 @@
+img {
+    width: 10rem;
+    height: 100%;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+}

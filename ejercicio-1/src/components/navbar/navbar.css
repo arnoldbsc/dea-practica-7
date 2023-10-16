@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    padding: 1rem;
+    height: 30px;
+    width: 100%;
+    gap: 1rem;
+    background-color: cadetblue;
+}
+
+.content {
+    margin: 0;
+    padding: 1rem;
+}
